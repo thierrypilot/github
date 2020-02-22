@@ -1,3 +1,3 @@
 # tutoriel
 
-ceci et le debut de l'initiation polycultures elevage automatiser
+Ceci est le début de l'initiation polycultures élevage automatiser
